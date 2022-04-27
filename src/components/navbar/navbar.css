@@ -1,0 +1,40 @@
+.navbar{
+    height: 50px;
+    background-color:darkorange;
+    display: flex;
+    justify-content: center;
+
+}
+
+.b{
+    letter-spacing: 9px;
+}
+
+.navContainer{
+    width: 100%;
+    max-width: 1024px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo{
+    font-weight: 500;
+    letter-spacing: 6px;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+
+
+.navButton{
+    margin-left: 20px;
+    background-color: crimson;
+    border: none;
+    padding:  5px 10px;
+    cursor: pointer;
+    color: snow;
+
+}
